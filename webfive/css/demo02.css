@@ -13,6 +13,14 @@
     background-color: #50bbdb;
     text-align: center;
     line-height: 0.88rem;
+    overflow: hidden;
+}
+.h2{
+    font-size: 0.25rem;
+    color: white;
+    width: 1.4rem;
+    height: 0.27rem;
+    margin-left: 2.3rem;
 }
 .sure{
     font-size: 0.23rem;
